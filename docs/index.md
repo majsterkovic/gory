@@ -33,14 +33,16 @@ Nie kupować kurtki ocieplanej/3w1 — latem w Karkonoszach to "sauna" na podej�
 - [ ] Koniecznie rozchodzone przed wyjazdem — nie kupować tuż przed wyjazdem bez testu na dłuższym spacerze
 - [ ] Sprawdzić: Salomon, Lowa, Meindl, Columbia — albo budżetowo Quechua MH500/900
 
-## 🎒 Plecak — ROZSTRZYGNIĘTE (patrz `plecak/litraz-i-model.md`)
+## 🎒 Plecak — ROZSTRZYGNIĘTE (patrz `plecak/podsumowanie-budzety-200-300-350.md`)
 
-- [x] **Litraż:** 35-50 l (3 dni/2 noclegi w schroniskach, bez śpiwora/karimaty — tylko liner)
-- [ ] **Do kupienia — rekomendacja:** Simond MT100, 50 l, 199,99 zł (3084 opinii) — [Decathlon](https://www.decathlon.pl)
-- [ ] Alternatywa budżetowa z promocją: Quechua Escape 500, 32 l, 159,98 zł z kodem APPDAYS
-- [ ] Pokrowiec przeciwdeszczowy (raincover) — sprawdzić czy wbudowany w wybrany model
-- [ ] Pas biodrowy odciążający — ważne przy dłuższych podejściach
-- [ ] **App Days:** kod APPDAYS daje -20% w aplikacji — sprawdzić czy działa też na już wybrane koszulki/kurtkę
+- [x] **Litraż: 30–38 l**, nie 50 l — realny ekwipunek to ~18–25 l, nadmiar pojemności psuje rozkład ciężaru i wygina stelaż przy kompresji
+- [x] **Kluczowe kryterium:** siatka dystansowa na stelażu (nie piankowy panel) — decyduje o spoconych plecach przy 8–12 kg
+- [x] ~~Simond MT100 50 l~~ — **odrzucone**: za duży + wentylacja 4/10 (korekta wcześniejszej rekomendacji)
+- [ ] **Do kupienia — rekomendacja:** **Quechua MH500 40 l w aplikacji z kodem APPY50 → 279,99 zł** (wychodzi taniej niż wariant 38 l za 299,99 zł, który mija próg 300 zł o grosz)
+- [ ] Bez aplikacji: MH500 38 l, 299,99 zł (1771 opinii) — siatka dystansowa, pokrowiec w zestawie, komfort do 12 kg
+- [ ] Twardy limit 200 zł: Quechua MH100 35 l, 179,99 zł (lub ~143,98 zł z APPDAYS) — ale pianka zamiast siatki, brak pokrowca (+35 zł), komfort tylko do ~9 kg
+- [ ] Przy zakupie: przymierzyć z obciążeniem ~9-10 kg, pas biodrowy na górnej krawędzi kości biodrowych, pochodzić 10 min
+- [ ] **Promocje:** APPDAYS (-20%) kończy się **5.08.2026**; APPY50 (-50 zł od 300 zł); PayPo (-40 zł od 400 zł) — kody zwykle się nie łączą, sprawdzić w koszyku
 
 ## 🧢 Dodatki
 

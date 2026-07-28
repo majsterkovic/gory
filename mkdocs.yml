@@ -1,0 +1,73 @@
+site_name: Górski second brain
+site_description: Notatki i rekomendacje sprzętowe na wyjazd w Karkonosze
+site_url: https://majsterkovic.github.io/gory/
+
+# Notatki trzymamy w docs/<kategoria>/ — MkDocs wymaga, by treść była w podkatalogu configu.
+
+# Na stronę trafiają tylko gotowe raporty. Cokolwiek wrzucisz do <kategoria>/zrodla/
+# (deep researche, eksporty z Perplexity/Gemini) zostaje w repo, ale nie jest publikowane.
+exclude_docs: |
+  zrodla/
+  plecak/litraz-i-model.md
+  README.md
+
+nav:
+  - Lista zakupowa: index.md
+  - Kurtka: kurtka/budzet-300-350-rozmiar-L.md
+  - Koszulka: koszulka/budzet-120-merino-vs-syntetyk.md
+  - Plecak: plecak/podsumowanie-budzety-200-300-350.md
+
+theme:
+  name: material
+  language: pl
+  icon:
+    logo: material/hiking
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Tryb ciemny
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Tryb jasny
+  features:
+    - navigation.instant # przejścia bez przeładowania strony
+    - navigation.top # przycisk "do góry"
+    - navigation.tracking
+    - toc.follow
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+plugins:
+  # lunr nie ma stemmera dla polskiego — zostaje domyślny, wyszukiwanie po prefiksach działa
+  - search
+  - git-revision-date-localized: # "Ostatnia aktualizacja" pod każdą notatką, z historii gita
+      type: date
+      locale: pl
+      fallback_to_build_date: true
+
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.tasklist:
+      custom_checkbox: true # listy [ ] / [x] renderują się jako checkboxy
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+
+extra:
+  social:
+    - icon: material/github
+      link: https://github.com/majsterkovic/gory

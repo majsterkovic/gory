@@ -17,6 +17,7 @@ nav:
   - Koszulka: koszulka/budzet-120-merino-vs-syntetyk.md
   - Plecak: plecak/podsumowanie-budzety-200-300-350.md
   - Lista pakowania: pakowanie/lista-3-dni-schroniska.md
+  - Trasa: trasa/karkonosze-wang-strzecha.md
 
 theme:
   name: material
@@ -67,6 +68,8 @@ markdown_extensions:
       clickable_checkbox: true # bez tego renderują się z atrybutem disabled (tylko dekoracja)
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.tabbed: # zakładki "=== " (warianty tras)
+      alternate_style: true
   - pymdownx.details
 
 # Klikalne checkboxy z zapisem stanu w localStorage (per przeglądarka).

@@ -46,6 +46,14 @@ Nie kupować kurtki ocieplanej/3w1 — latem w Karkonoszach to "sauna" na podej�
 - [ ] Przy zakupie: przymierzyć z obciążeniem ~9-10 kg, pas biodrowy na górnej krawędzi kości biodrowych, pochodzić 10 min
 - [ ] **Promocje:** APPDAYS (-20%) kończy się **5.08.2026**; APPY50 (-50 zł od 300 zł); PayPo (-40 zł od 400 zł) — kody zwykle się nie łączą, sprawdzić w koszyku
 
+## 🗺️ Trasa — patrz `trasa/karkonosze-wang-strzecha.md`
+
+- [x] **Świątynia Wang → Bouda Sedmidolí 🇨🇿 → grań → PTTK Strzecha Akademicka**, 33 km, 10 punktów
+- [ ] ⚠️ Czas Mapy.com (11:22 g) jest zaniżony — liczą 4 km/h po płaskim; realnie **13–15 h** z przewyższeniami
+- [ ] ⚠️ Trasa wchodzi do **Czech** (Špindlerův Mlýn) — wziąć korony
+- [ ] ⚠️ **Śnieżki na trasie nie ma** — kończy się na Strzesze, ~1,5 h poniżej szczytu
+- [ ] Ustalić nocleg na dzień 2 — punkt „Pod Małym Szyszakiem" to teren, nie schronisko
+
 ## 🎒 Co spakować — patrz `pakowanie/lista-3-dni-schroniska.md`
 
 - [x] **Cel wagowy: 8–9 kg z wodą** (MH500 trzyma do 12 kg, ale 8 kg to komfort, 12 kg to udręka)

@@ -41,8 +41,16 @@ Nie kupować kurtki ocieplanej/3w1 — latem w Karkonoszach to "sauna" na podej�
 - [ ] **Do kupienia — rekomendacja:** **Quechua MH500 40 l w aplikacji z kodem APPY50 → 279,99 zł** (wychodzi taniej niż wariant 38 l za 299,99 zł, który mija próg 300 zł o grosz)
 - [ ] Bez aplikacji: MH500 38 l, 299,99 zł (1771 opinii) — siatka dystansowa, pokrowiec w zestawie, komfort do 12 kg
 - [ ] Twardy limit 200 zł: Quechua MH100 35 l, 179,99 zł (lub ~143,98 zł z APPDAYS) — ale pianka zamiast siatki, brak pokrowca (+35 zł), komfort tylko do ~9 kg
+- [ ] **38 l vs 40 l:** system nośny **identyczny** (ta sama siatka na stelażu, te same rozmiary S/L). Jedyna różnica poza litrażem: 38 l jest o **130–260 g lżejszy** (1,13 kg vs 1,26/1,39 kg)
+- [ ] **Alternatywy spoza Decathlonu:** Nerside Grenom 40 l (199,90 zł, siatka dystansowa) i Alpinus Tarfala 35 (299 zł, siatka + stelaż aluminiowy). Przedział **300–400 zł to martwa strefa** — gorszy sprzęt niż tańsze opcje
 - [ ] Przy zakupie: przymierzyć z obciążeniem ~9-10 kg, pas biodrowy na górnej krawędzi kości biodrowych, pochodzić 10 min
 - [ ] **Promocje:** APPDAYS (-20%) kończy się **5.08.2026**; APPY50 (-50 zł od 300 zł); PayPo (-40 zł od 400 zł) — kody zwykle się nie łączą, sprawdzić w koszyku
+
+## 🎒 Co spakować — patrz `pakowanie/lista-3-dni-schroniska.md`
+
+- [x] **Cel wagowy: 8–9 kg z wodą** (MH500 trzyma do 12 kg, ale 8 kg to komfort, 12 kg to udręka)
+- [x] Woda to 25% bagażu — wychodzić z 1–1,5 l i dolewać w schroniskach, nie dźwigać 2 l cały dzień
+- [ ] Pełna lista z wagami, kolejnością pakowania i zasadą „ciężkie przy plecach na wysokości łopatek"
 
 ## 🧢 Dodatki
 

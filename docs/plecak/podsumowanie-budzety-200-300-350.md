@@ -46,8 +46,16 @@ i spłaszcza siatkę dystansową**, niszcząc właśnie tę wentylację, o któr
 | Redukcja potliwości | Bardzo wysoka | Umiarkowana |
 | Komfort 8–12 kg | Ciężar na biodrach, brak nacisku punktowego | Ryzyko przejścia ciężaru na barki |
 
-**To jest główna linia podziału w budżecie.** Poniżej ~250 zł nie ma nowych plecaków z prawdziwą
-siatką dystansową na stelażu — dopiero od ~300 zł wchodzi Quechua MH500 i to on jest tu progiem wejścia.
+**To jest główna linia podziału w budżecie.**
+
+!!! warning "Korekta z 30.07.2026"
+
+    Pierwotnie napisałem tu, że „poniżej ~250 zł nie ma nowych plecaków z prawdziwą siatką
+    dystansową". **To nieprawda** — patrz `Nerside Grenom 40 l` (199,90 zł) i
+    `Alpinus Tarfala 35` (299 zł) w sekcji [Alternatywy spoza Decathlonu](#alternatywy-spoza-decathlonu).
+    Oba mają siatkę dystansową na stelażu, Alpinus nawet aluminiowym. Próg wejścia w tę
+    konstrukcję jest **niżej niż zakładałem** — MH500 nie jest jedyną opcją, tylko najlepiej
+    udokumentowaną (1771 opinii vs marki bez historii).
 
 ---
 
@@ -83,7 +91,7 @@ plecami niż w MH500.
 | Parametr | Wartość |
 | :-- | :-- |
 | Pojemność | 38 l — w samym środku optimum |
-| Waga | ok. 1,39 kg |
+| Waga | **ok. 1,13 kg** (korekta — wcześniej było tu błędnie 1,39 kg, to waga 40 l w rozmiarze L) |
 | Plecy | **Air-Mesh: napięta siatka dystansowa na wygiętej stalowej ramie** |
 | Wentylacja | Najlepsza dostępna w tej cenie — swobodna cyrkulacja, plecy nie stykają się z komorą |
 | Komfort | **Bardzo dobry do 11–12 kg** — sztywna rama i wyprofilowany pas przenoszą ciężar na biodra |
@@ -110,6 +118,27 @@ ale 25 l wymaga naprawdę rygorystycznego pakowania na 2 noce.
 ## 🥇🥇🥇 Budżet do 350 zł
 
 **Wybór: Quechua MH500 40 l — ok. 329,99 zł**
+
+### 38 l vs 40 l — czym się różnią (weryfikacja 30.07.2026)
+
+Oba istnieją jako osobne produkty dla dorosłych (38 l = `R-p-352976`, 40 l = `R-p-310102`).
+Uwaga: istnieją też **wersje dziecięce MH500 40 l i 40+10 l za 129,99 zł** — łatwo pomylić
+w wynikach wyszukiwania, patrz na cenę.
+
+| | MH500 38 l | MH500 40 l |
+| :-- | :-- | :-- |
+| Waga | ~1,13 kg | 1,26 kg (S) / 1,39 kg (L) |
+| Panel pleców | siatka na regulowanym stelażu | siatka na regulowanym stelażu |
+| Rozmiary | S / L (próg 170 cm wzrostu) | S / L (próg 170 cm wzrostu) |
+
+**System nośny jest w obu taki sam** — opisy techniczne są identyczne co do sformułowań.
+Jedyna twarda różnica poza litrażem to waga: **38 l jest o 130–260 g lżejszy**.
+
+!!! note "Pułapka interpretacyjna"
+
+    Opis 40 l mówi o „nowo zaprojektowanych plecach" i „siatce miększej niż w starym modelu".
+    To odniesienie do liftingu linii MH500 z 2020 r. względem **poprzedniej generacji MH500**,
+    a nie porównanie z wariantem 38 l. Nie czytaj tego jako przewagi 40 l nad 38 l.
 
 Ten sam system nośny co 38 l (stalowa rama + napięta siatka dystansowa, pokrowiec w zestawie),
 +2 l zapasu. Sens tylko jeśli planujesz używać go też jesienią/zimą z grubszą izolacją albo
@@ -188,6 +217,45 @@ na poszczególnych produktach).
 
 **Zanim kupisz:** promocje APPDAYS kończą się **5.08.2026**, a ceny w katalogu zmieniają się
 z dnia na dzień — zweryfikuj aktualny stan w aplikacji przed finalizacją.
+
+---
+
+## Alternatywy spoza Decathlonu
+
+Weryfikacja 30.07.2026. Ceny ze snippetów wyszukiwarki — sklepy blokują bezpośredni odczyt kart
+produktowych, więc traktuj je jako orientacyjne, zwłaszcza ceny wyprzedażowe.
+
+| Model | Cena | Plecy | Uwagi |
+| :-- | --: | :-- | :-- |
+| **Nerside Grenom 40 l** | **199,90 zł** | **siatka dystansowa** | Nieznana marka, ale konstrukcja ta sama co MH500 za połowę ceny. Brak historii trwałości |
+| **Alpinus Tarfala 35** | **299 zł** | **siatka + stelaż aluminiowy (ADS)** | Pokrowiec w zestawie. **Komora główna tylko 22 l** — reszta w kieszeniach |
+| Fjord Nansen Bodo 40 | 399,99 zł | wypustki gąbkowe | Krok w tył w wentylacji mimo wyższej ceny |
+| Elbrus AirTex 35 | ~323 zł | siatka | Marka własna sieci Martes/Iguana |
+| Ferrino Agile 35 | ~600 zł | Hollow Back System | Włoska marka, dobra opinia, słabsza dostępność w PL |
+| Osprey Stratos 36 | od ~600 zł (kat. 959,99) | **pianka AirScape** | Dożywotnia gwarancja, świetne dopasowanie — ale wentylacja *nie* lepsza niż MH500 |
+| Salomon Aerotrek 40 | 700–900 zł | siatka + airCHASSIS | Najlepsza wentylacja w grupie premium |
+| Gregory Zulu 40 | 700–900 zł | regulowany system nośny | Najlepiej pracujące pasy biodrowe na rynku |
+
+### ⚠️ Martwa strefa: 300–400 zł
+
+**W tym przedziale nie ma nic wartego kupienia.** Za 399,99 zł (Fjord Nansen Bodo) dostajesz
+gorszy system nośny niż za 199,90 zł (Nerside) czy 279,99 zł (MH500 40 l z APPY50). Marki, które
+tam siedzą — Fjord Nansen, Elbrus, Alpine Pro — albo rezygnują z siatki na rzecz pianki, albo nie
+oferują nic ponad Quechuę. Jeśli przekraczasz 300 zł, następny sensowny przystanek to dopiero
+~600 zł.
+
+### Wzorzec wart zapamiętania
+
+Cena rośnie głównie za **dopasowanie, trwałość i gwarancję**, a nie za wentylację. Siatkę
+dystansową masz już za 200–300 zł. Osprey za 600 zł daje jej *mniej*, bo świadomie wybiera piankę
+dla stabilności pod większym obciążeniem. Skoro Twoim priorytetem jest wentylacja — **dopłata jej
+nie poprawi**. Dopłacasz za coś innego.
+
+### Czego tu nie ma i dlaczego
+
+- **Arc'teryx** — plecaki trekkingowe od ~1200–1800 zł, celowane w alpinizm, nie weekendowy trekking
+- **Aevor** — segment miejsko-podróżny, nie górski
+- Uwaga na nazewnictwo: **Atmos** (Osprey) i **Aircontact** (Deuter) to *modele*, nie marki
 
 ---
 

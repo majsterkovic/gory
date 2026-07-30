@@ -64,9 +64,17 @@ markdown_extensions:
       permalink: true
   - pymdownx.tasklist:
       custom_checkbox: true # listy [ ] / [x] renderują się jako checkboxy
+      clickable_checkbox: true # bez tego renderują się z atrybutem disabled (tylko dekoracja)
   - pymdownx.highlight
   - pymdownx.superfences
   - pymdownx.details
+
+# Klikalne checkboxy z zapisem stanu w localStorage (per przeglądarka).
+extra_javascript:
+  - assets/js/checklist.js
+
+extra_css:
+  - assets/css/checklist.css
 
 extra:
   social:

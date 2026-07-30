@@ -1,0 +1,74 @@
+/* Pasek postępu nad listami zadań. Kolory z palety Material, żeby działał
+   w trybie jasnym i ciemnym bez osobnych reguł. */
+
+.checklist-progress {
+  margin: 1.2rem 0 0.8rem;
+  padding: 0.6rem 0.8rem;
+  border-radius: 0.2rem;
+  background: var(--md-code-bg-color);
+}
+
+.checklist-progress__row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.checklist-progress__count {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--md-default-fg-color--light);
+}
+
+.checklist-progress__reset {
+  padding: 0.15rem 0.6rem;
+  font-size: 0.65rem;
+  color: var(--md-primary-fg-color);
+  cursor: pointer;
+  background: transparent;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: 0.1rem;
+}
+
+.checklist-progress__reset:hover {
+  color: var(--md-accent-fg-color);
+  border-color: var(--md-accent-fg-color);
+}
+
+.checklist-progress__track {
+  height: 0.3rem;
+  overflow: hidden;
+  background: var(--md-default-fg-color--lightest);
+  border-radius: 0.15rem;
+}
+
+.checklist-progress__fill {
+  width: 0;
+  height: 100%;
+  background: var(--md-primary-fg-color);
+  border-radius: 0.15rem;
+  transition: width 0.2s ease;
+}
+
+/* Klikalne checkboxy powinny wyglądać na klikalne. */
+.task-list-control {
+  cursor: pointer;
+}
+
+/* Odznaczona pozycja przygasa — widać na pierwszy rzut oka, co zostało.
+   Tekst pozycji jest rodzeństwem <label>, nie jego potomkiem, więc selektor
+   sąsiedztwa go nie złapie — stąd :has() na całym <li>. */
+.task-list-item:has(> .task-list-control > input:checked) {
+  color: var(--md-default-fg-color--light);
+  text-decoration: line-through;
+  text-decoration-color: var(--md-default-fg-color--lighter);
+}
+
+/* Sam wskaźnik i zagnieżdżone listy nie mają być przekreślone. */
+.task-list-item > .task-list-control,
+.task-list-item ul,
+.task-list-item ol {
+  text-decoration: none;
+}

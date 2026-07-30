@@ -3,6 +3,13 @@
 Profil: 180 cm / 84 kg, koniec sierpnia, **noclegi w schroniskach** (bez namiotu, śpiwora,
 karimaty i kuchenki), plecak **Quechua MH500 38/40 l**.
 
+!!! tip "Kwadraciki są klikalne"
+
+    Odznaczaj pozycje w trakcie pakowania — stan zapisuje się sam i przetrwa odświeżenie
+    strony. **Zapis jest w przeglądarce (localStorage), więc działa per urządzenie**: lista
+    odznaczona na laptopie nie przeniesie się na telefon. Pakuj się z jednego urządzenia.
+    Przycisk „Wyczyść" nad listą resetuje wszystko przed kolejnym wyjazdem.
+
 **Cel wagowy: 8–9 kg z wodą.** To nie jest arbitralna liczba — patrz notatka o plecaku:
 MH500 trzyma komfort do ~12 kg, ale różnica między 8 a 12 kg to różnica między „nie zauważam
 plecaka" a „liczę kilometry do schroniska". Każdy przedmiot poniżej ma podaną wagę właśnie po to,
